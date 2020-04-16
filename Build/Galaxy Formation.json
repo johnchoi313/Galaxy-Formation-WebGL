@@ -1,0 +1,13 @@
+{
+"companyName": "CMU Physics Dept",
+"productName": "Galaxy Formation",
+"dataUrl": "Galaxy Formation.data.unityweb",
+"wasmCodeUrl": "Galaxy Formation.wasm.code.unityweb",
+"wasmFrameworkUrl": "Galaxy Formation.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
