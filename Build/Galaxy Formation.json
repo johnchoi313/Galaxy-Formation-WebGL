@@ -4,7 +4,7 @@
 "dataUrl": "Galaxy Formation.data.unityweb",
 "wasmCodeUrl": "Galaxy Formation.wasm.code.unityweb",
 "wasmFrameworkUrl": "Galaxy Formation.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
