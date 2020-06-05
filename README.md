@@ -30,10 +30,12 @@ And check out a full video playthrough here:
 
 ## GALAXY FORMATION CREDITS <br/>
 Lead Developer: John Choi. 
-*Learn more about me here: https://www.johnchoi313.com/ *
+
+*Learn more about me here: https://www.johnchoi313.com/*
 
 Inspired by Volker Springel's Gadget Simulation Code.
-*Learn more about Gadget here: https://wwwmpa.mpa-garching.mpg.de/gadget/ *
+
+*Learn more about Gadget here: https://wwwmpa.mpa-garching.mpg.de/gadget/*
 
 **Contributors**
 + Doyee Byun
