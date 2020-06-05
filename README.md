@@ -19,8 +19,14 @@ For better performance, you can download the native versions for each platform h
 + **Linux:** https://github.com/johnchoi313/Galaxy-Formation-WebGL/blob/master/Other%20Platforms/Linux.zip 
 + **WebGL:** https://github.com/johnchoi313/Galaxy-Formation-WebGL/blob/master/Other%20Platforms/WebGL.zip 
 
-Get the full PDF documentation here:
+Get the full Galaxy Formation PDF documentation here:
++ **PDF:** https://github.com/johnchoi313/Galaxy-Formation-WebGL/blob/master/Documentation/Galaxy-Formation-Documentation.pdf
 
+Find more screenshots here:
++ **Images:** https://github.com/johnchoi313/Galaxy-Formation-WebGL/blob/master/Images
+
+And check out a full video playthrough here:
++ **Video:** https://youtu.be/eDyD2gc5nng
 
 ## GALAXY FORMATION CREDITS <br/>
 Lead Developer: John Choi. 
