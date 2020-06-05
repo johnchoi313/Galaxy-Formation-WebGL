@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/unity-2018.4.14f1-blue"/> <img src="https://img.shields.io/badge/supports-Android-brightgreen"/> <img src="https://img.shields.io/badge/supports-Mac-brightgreen"/> <img src="https://img.shields.io/badge/supports-Windows-brightgreen"/> <img src="https://img.shields.io/badge/supports-Linux-brightgreen"/> <img src="https://img.shields.io/badge/supports-WebGL-brightgreen"/> 
 
-![Galaxy Formation App](/Images/gif2.gif) <br/> *Galaxy Formation App depicting a lite real-time n-body simulation of particles in a virtual universe.*
+![Galaxy Formation App](/Images/GIFs/gif2.gif) <br/> *Galaxy Formation App depicting a lite real-time n-body simulation of particles in a virtual universe.*
 
 ## Summary <br/>
 Galaxy Formation is a multi-platform educational app depicting how dark matter particles in the universe clump together over billions of years to form things like stars, planets and galaxies. The app does this with a lite, real-time simulation of thousands of n-body particles that are attracted by gravitational forces that form galaxies when combined. 
