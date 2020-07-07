@@ -28,6 +28,12 @@ Find more screenshots here:
 And check out a full video playthrough here:
 + **Video:** https://youtu.be/eDyD2gc5nng
 
+The Galaxy Formation App is now available on the official Android and iOS App Store!
+
+[![Android App Store](/Images/androidappstore.png)](https://play.google.com/store/apps/details?id=cmu.physics.galaxy)
+
+[![iOS App Store](/Images/iosappstore.png)](https://apps.apple.com/us/app/galaxy-formation/id1519390105)
+
 ## GALAXY FORMATION CREDITS <br/>
 Lead Developer: John Choi. <br/>
 *Learn more about me here: https://www.johnchoi313.com/*
