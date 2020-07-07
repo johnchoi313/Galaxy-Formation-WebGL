@@ -60,4 +60,4 @@ Inspired by Volker Springel's Gadget Simulation Code. <br/>
 + Spacescape - Alex Peterson
 + UI Gradient – azixMcAze
 
-*Made possible with generous support from the National Science Foundation.*
+*Made possible with generous support from the National Science Foundation (NSF AST-1909193), and the McWilliams Center for Cosmology and Department of Physics, Carnegie Mellon University.*
